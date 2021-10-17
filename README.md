@@ -9,3 +9,7 @@ this is a library desktop application; that allows you:
 7. scroll down and scroll up
 
 # usage methods:
+#first:
+1. open the library directory in a text editor(like vs-code) or IDE(like pycharm)
+2. execute backEnd.py
+3. execute frontend.py

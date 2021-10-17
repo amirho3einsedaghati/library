@@ -55,22 +55,3 @@ def delete(id):
 
 
 connect()
-
-
-
-
-
-# insert(,1999,89124379"شمس","مولانا",)
-# insert("1,2,3 بدرخش","shahab anari",2018,91827901)
-# insert("سفر کوانتومی وال تنها","iman sarvarpour",2021,18230129)
-# insert("تمام جهان در من است","iman sarvarpour",2018,19823712039)
-
-# print(select_all())
-
-# update(5,"انسان در جستجوی معنا","victor frankl",1999,89124379)
-# update(9,"شمس","molana",1999,89124379)
-
-# print(search(bookTitle="انسان در جستجوی معنا"))
-# print(search(authorName="iman sarvarpour"))
-
-# delete(9)
